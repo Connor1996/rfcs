@@ -1,5 +1,8 @@
 # Substitute rocksdb write stall
 
+- RFC PR: https://github.com/tikv/rfcs/pull/67
+- Tracking Issue: https://github.com/tikv/tikv/issues/10137
+
 ## Motivation
 
 ![substitute-write-stall-1](../media/substitute-write-stall-1.png)
